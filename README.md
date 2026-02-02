@@ -34,6 +34,6 @@ Projeto focado em **saúde, nutrição e treinos**, integrando tecnologia, APIs 
 
 ## 📬 Contato
 - GitHub: https://github.com/offmxrcio
-- LinkedIn: (adicione aqui quando quiser)
+- LinkedIn: https://www.linkedin.com/in/márcio-guilherme-017415232/
 
 ✨ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
