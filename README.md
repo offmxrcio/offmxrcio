@@ -20,7 +20,7 @@
 ### 🥗 Horus / 🏋️ Horus App
 Projeto focado em **saúde, nutrição e treinos**, integrando tecnologia, APIs e inteligência artificial.
 
-👉 Repositório: https://github.com/offmxrcio
+👉 Repositório: https://github.com/HorusCC/Horus-app
 
 ---
 
