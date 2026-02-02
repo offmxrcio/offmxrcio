@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Márcio (offmxrcio)
 
-<!--
-**offmxrcio/offmxrcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor em formação com foco em **aplicações mobile, web e backend**.  
+📱 Apaixonado por tecnologia, projetos práticos e aprendizado contínuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- React Native
+- TypeScript
+- Node.js
+- MongoDB
+- Mongoose
+- Expo Router
+- Git & GitHub
+
+---
+
+## 🚀 Projeto em Destaque
+### 🥗 Horus / 🏋️ Horus App
+Projeto focado em **saúde, nutrição e treinos**, integrando tecnologia, APIs e inteligência artificial.
+
+👉 Repositório: https://github.com/offmxrcio
+
+---
+
+## 📈 Em evolução constante
+- Boas práticas de programação
+- Estruturação de projetos
+- Integração com APIs
+- Desenvolvimento mobile
+
+---
+
+## 📬 Contato
+- GitHub: https://github.com/offmxrcio
+- LinkedIn: (adicione aqui quando quiser)
+
+✨ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
